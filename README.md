@@ -10,12 +10,10 @@
 ## Table of Contents
 
 1. [Features](#features)
-2. [Screenshots](#screenshots)
-3. [Technologies Used](#technologies-used)
-4. [Setup Instructions](#setup-instructions)
-5. [Project Structure](#project-structure)
-6. [Contributing](#contributing)
-7. [License](#license)
+2. [Technologies Used](#technologies-used)
+3. [Setup Instructions](#setup-instructions)
+4. [Project Structure](#project-structure)
+5. [Contributing](#contributing)
 
 ---
 
