@@ -133,7 +133,7 @@ Please ensure your code adheres to the existing style and includes appropriate d
 For questions or feedback, feel free to reach out:
 
 - **Email**: asadrahmani3101@gmail.com
-- **GitHub**: [@yourusername](https://github.com/rahmani3101)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **GitHub**: [@rahmani3101](https://github.com/rahmani3101)
+- **LinkedIn**: [Mohammad Asad Rahmani](www.linkedin.com/in/mohammad-asad-rahmani-a39b57257)
 
 ---
