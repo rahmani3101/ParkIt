@@ -12,7 +12,7 @@ void main() {
 }
 
 class ParkingApp extends StatelessWidget {
-  const ParkingApp({Key? key}) : super(key: key);
+  const ParkingApp({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -20,12 +20,12 @@ class ParkingApp extends StatelessWidget {
       title: 'ParkIt',
       theme: ThemeData(
         primarySwatch: Colors.blue,
-        scaffoldBackgroundColor: Colors.grey.shade100,
+        scaffoldBackgroundColor: const Color.fromARGB(255, 4, 137, 146),
         appBarTheme: AppBarTheme(
           backgroundColor: Colors.blue.shade800,
           elevation: 0,
           titleTextStyle: const TextStyle(
-            color: Colors.white,
+            color: Color.fromARGB(255, 127, 179, 6),
             fontSize: 20,
             fontWeight: FontWeight.bold,
           ),
